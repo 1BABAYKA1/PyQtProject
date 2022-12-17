@@ -4,7 +4,7 @@ from PyQt5.QtWidgets import QPushButton
 from PyQt5.QtGui import QPainter, QColor, QPolygon
 import sys
 import random
-from UI import Ui_MainWindow
+from UI_yellow_circles import Ui_MainWindow
 
 SCREEN_SIZE = [680, 480]
 
